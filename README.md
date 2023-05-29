@@ -41,8 +41,9 @@ The sentiment analysis API evaluates the sentiment of the text and returns the r
     ```
 
 1. Install dependencies with `npm install`
+1. Build the project with `npm run build-prod`
 1. Start the server with `npm run start`
-1. Open the application in your browser at <http://localhost:8080>
+1. Open the application in your browser at <http://localhost:8081>
 
 ## Main Dependencies
 
